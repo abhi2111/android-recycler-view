@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819790064987",
+    "firebase_url": "https://myapplication-c9e4d.firebaseio.com",
+    "project_id": "myapplication-c9e4d",
+    "storage_bucket": "myapplication-c9e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819790064987:android:59624be99233ca2b",
+        "android_client_info": {
+          "package_name": "birdofparadise.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819790064987-75k7mufducespuk2sa66e7a6uqpr4qcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_ztNEKcplNwqWgT-cDMtva8fSE4QkhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

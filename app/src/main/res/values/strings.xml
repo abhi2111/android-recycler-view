@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WASIDEA</string>
+    <string name="action_settings"></string>
+
+    //Main list items
+    <string name="make_points">Make Points</string>
+    <string name="shopping">Shopping</string>
+    <string name="create_coins">Create Coins</string>
+    <string name="my_gifts">My Gifts</string>
+    <string name="support">Support</string>
+    <string name="title_activity_main2">Page 2</string>
+    <string name="text1">Come and shop here and enjoy</string>
+    <string name="title_activity_main3">Page 3</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="title_activity_main4">Main4Activity</string>
+
+</resources>
